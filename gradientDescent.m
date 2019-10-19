@@ -23,15 +23,7 @@ for iter = 1:num_iters
     %Vector of difference
     dif = hypo - y;
 
-    
     theta = theta - alpha*(1/m)*[sum(dif);sum(dif.*X(:,2))];
-
-
-
-
-
-
-
     % ============================================================
 
     % Save the cost J in every iteration    
