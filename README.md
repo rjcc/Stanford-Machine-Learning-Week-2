@@ -1,2 +1,2 @@
-# Stanford-Machine-Learning-Week-1
-This is my solution to the week 1 programming assignment for the CS 229 course on machine learning offered through Coursera. This assignment involved implementing linear regression through the gradient descent algorithm. To complete this assignment, I altered the warmUpExercise.m, plotData.m, gradientDescent.m, computeCost.m, gradientDescentMulti.m, computeCostMulti.m, featureNormalize.m, and normalEqn.m files
+# Stanford-Machine-Learning-Week-2
+Tentative solutions
